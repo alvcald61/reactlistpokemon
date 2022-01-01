@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactlistpokemon/static/css/main.61f5b1e2.css",
+    "main.js": "/reactlistpokemon/static/js/main.1b24537d.js",
+    "static/js/787.e0fb97a3.chunk.js": "/reactlistpokemon/static/js/787.e0fb97a3.chunk.js",
+    "index.html": "/reactlistpokemon/index.html",
+    "main.61f5b1e2.css.map": "/reactlistpokemon/static/css/main.61f5b1e2.css.map",
+    "main.1b24537d.js.map": "/reactlistpokemon/static/js/main.1b24537d.js.map",
+    "787.e0fb97a3.chunk.js.map": "/reactlistpokemon/static/js/787.e0fb97a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f5b1e2.css",
+    "static/js/main.1b24537d.js"
+  ]
+}
